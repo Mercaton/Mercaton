@@ -6,11 +6,17 @@
 
 
 Hi 👋, I'm Marcin Wieczorek
+
 💫 About Me:
+
 🔭 I’m currently working on -- fullstack recipe book app
+
 🌱 I’m currently learning --- Node.js/Express/MongoDB
+
 💬 Ask me about --- HTML & CSS
+
 ⚡ Fun fact --- I'm certified tennis coach
+
 
 💻 Tech Stack:
 Frontend:
