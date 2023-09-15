@@ -22,13 +22,13 @@ Hi 👋, I'm Marcin Wieczorek
 Frontend:
 HTML5 CSS3 JavaScript
 
-Backend:
-NodeJS
+Backend (beginner):
+NodeJS Express MongoDB 
 
 Tools, Platforms & Libraries:
-React NPM SASS React Router React Native Vite Postman 
+React NPM SASS React-Router React-Native  Postman 
 
-Babel Webpack Trello Firebase 
+Vite Babel Webpack Trello Firebase 
 
 
 
